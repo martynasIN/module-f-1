@@ -55,3 +55,8 @@ Once you've committed all necessary changes:
 - The final deployed version must be accessible via GitHub Pages.
 
 Good luck and happy coding! 🚀
+
+## 👨‍💻 Authors
+- **[Martynas Kašelionis](https://github.com/martynasIN)** - Main contributor  
+
+
